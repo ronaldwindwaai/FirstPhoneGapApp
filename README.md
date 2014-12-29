@@ -1,4 +1,4 @@
-FirstPhoneGapApp
+First PhoneGap Application
 ================
 
 PhoneGap App
